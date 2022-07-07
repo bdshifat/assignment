@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    display: flex;
+    height: 500px;
+    padding-bottom: 150px;
+}
+.top-banner{
+    background-image: url("images/donation2.jpg");
+    background-repeat: no-repeat;
+}
+.half-width{
+    width:80%;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+.halfff-width{
+    width: 160px;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(31, 16, 82);
+  
+}
+
+.redonate{
+    
+    margin-left:35%;
+    padding-left: 2%;
+    padding-bottom: 20%;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+p{
+    color: black;
+    font-size: 20px;
+    font-weight: 800;
+
+}
+h2{
+    font-size: 40px;
+    font;
+}
+.experience-area{
+ 
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience-area div{
+    box-shadow: 5px 5px 40px gray;
+    height: 80%;
+
+
+}
+
+.experienceee-area div{
+    box-shadow: 5px 7px 10px gray;
+    height: 20%;
+    border-radius: 9%;
+}
+#food{
+   
+    background-color: rgb(197, 241, 241);
+}
+#shelter{
+    
+    background-color: rgba(211, 177, 194, 0.647);
+}
+#education{
+    
+    background-color: rgba(160, 157, 62, 0.647);
+   
+}
+
+
+#tk{
+   
+    background-color: rgb(215, 226, 226);
+    opacity: 50%;
+}
+
+footer p{
+    text-align: center;
+}
